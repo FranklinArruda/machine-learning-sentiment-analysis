@@ -1,4 +1,4 @@
-# Income Prediction and Sentiment Analysis – Final Assignment
+# Income Prediction and Sentiment Analysis – Final Assignment (*Machine Learning*)
 
 ![machine](https://github.com/user-attachments/assets/ef18e1fc-7438-49ef-a437-474be9afd81d)
 
@@ -79,7 +79,7 @@ This project was an opportunity to apply everything I’ve learned throughout th
 
 I encountered several challenges, especially with dataset loading and text preprocessing, but managed to solve them through self-directed learning and reference to official documentation and tutorials. I also included these sources in my notebook for transparency.
 
-In the end, this wasn’t just an assignment to submit — it felt like building something meaningful. I now feel much more confident applying machine learning and sentiment analysis in real-world contexts.
+In the end, this wasn’t just an assignment to submit, it felt like building something meaningful. I now feel much more confident applying machine learning and sentiment analysis in real-world contexts.
 
 ## References
 - Sentiment140 Dataset – Kaggle
