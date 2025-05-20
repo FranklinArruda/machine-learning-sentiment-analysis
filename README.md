@@ -95,6 +95,17 @@ https://saturncloud.io/blog/how-to-fix-the-pandas-unicodedecodeerror
 https://www.nltk.org/api/nltk.sentiment.vader.html
 
 
+<div style="background-color:#f6f6f6; padding:15px; border-left:5px solid #c53c38; border-radius:10px">
+    
+## 🎥 *Optional Project Presentation*
+
+Although a presentation was **not required** for this project, I decided to record a full walkthrough of my notebook and results as a personal challenge and a way to finish strong.
+
+🔗 **Presentation Video Link**:  
+    https://drive.google.com/file/d/1SHQz1K7P8UFk0uEVbfZ2O9SdVeLCAB6a/view?usp=drive_link
+
+</div>
+
 ## **License**
 
 This project was developed as part of the coursework for the Data Analytics program at **CCT College Dublin**.
