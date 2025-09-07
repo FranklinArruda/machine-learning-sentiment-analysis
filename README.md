@@ -102,16 +102,16 @@ https://www.nltk.org/api/nltk.sentiment.vader.html
 Although a presentation was **not required** for this project, I decided to record a full walkthrough of my notebook and results as a personal challenge and a way to finish strong.
 
 🔗 **Presentation Video Link**:  
-    https://drive.google.com/file/d/1SHQz1K7P8UFk0uEVbfZ2O9SdVeLCAB6a/view?usp=drive_link
+    https://drive.google.com/file/d/12_Y1ZRwqi2NH7JQoZ8KhsV_XECLxE1zO/view?usp=sharing
 
 </div>
 
 ## **License**
 
-This project was developed as part of the coursework for the Data Analytics program at **CCT College Dublin**.
+This project was originally developed as part of the coursework for the Data Analytics program at **CCT College Dublin**.  
+All code has been published here for educational and portfolio purposes.  
 
-All code, explanations, and outputs in this project are submitted solely for educational purposes and assessment under the supervision of CCT College.
+You are free to view, use, and share the code for non-commercial purposes, provided proper attribution is given.  
 
-Unauthorized use or distribution is not permitted without written permission from the author or the institution.
+© 2025 Franklin Arruda
 
-© 2025 CCT College Dublin – All Rights Reserved.
